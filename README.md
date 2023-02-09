@@ -27,4 +27,4 @@ $ npm run test
     <li>Run the following command in terminal</li>
 </ol>
 
-```curl -X GET 'localhost:3000/api/v1/record-label```
+```curl localhost:3000/api/v1/record-label```
