@@ -9,6 +9,7 @@ async function bootstrap() {
     type: VersioningType.URI,
     defaultVersion: '1',
   });
+  // runs the server
   await app.listen(3000);
 }
 bootstrap();
